@@ -32,7 +32,7 @@ button {
     text-decoration: none;
     border-bottom: 1px solid;
     font-size: 18px;
-    text-shadow: 0 4px 11px black;
+    text-shadow: 0 4px 10px black;
 }
 
 .header__link:active {

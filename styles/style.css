@@ -139,10 +139,9 @@ button {
 .cover__description {
     position: relative;
     display: flex;
-    margin: 135px 50px 51px 78px;
+    margin: 135px 0px 51px 78px;
     column-gap: 79px;
     align-items: center;
-    width: 100%;
 }
 
 .cover__description-text {

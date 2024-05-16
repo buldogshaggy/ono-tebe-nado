@@ -137,14 +137,11 @@ button {
 }
 
 .cover__description {
+    position: relative;
     display: flex;
-    justify-content: center;
+    margin: 135px 50px 51px 78px;
     column-gap: 79px;
     align-items: center;
-    position: absolute;
-    bottom: 62px;
-    z-index: 1;
-    height: min-content;
     width: 100%;
 }
 
@@ -189,6 +186,7 @@ button {
     list-style: none;
     flex-wrap: wrap;
     column-gap: 25px;
+    row-gap: 25px;
 }
 
 .lots__card-list-item {
@@ -207,7 +205,6 @@ button {
     width: 100%;
     height: 100%;
     max-width: 334px;
-    max-height: 563px;
     padding: 51px 40px 48px 40px;
     background-size: cover;
     background-position: center;
